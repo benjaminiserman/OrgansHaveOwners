@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Winggar.OrgansHaveOwners.ExtractedFrom>Extracted from: {0}</Winggar.OrgansHaveOwners.ExtractedFrom>
+	<Winggar.Stat_Thing_ExtractedFrom_Name>Extracted from</Winggar.Stat_Thing_ExtractedFrom_Name>
+	<Winggar.Stat_Thing_ExtractedFrom_Desc>We know who this body part was extracted from.</Winggar.Stat_Thing_ExtractedFrom_Desc>
+	<Winggar.ForeignPart_CompTip>This body part originally came from: {0}</Winggar.ForeignPart_CompTip>
+</LanguageData>

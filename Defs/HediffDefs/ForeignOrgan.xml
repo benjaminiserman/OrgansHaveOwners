@@ -1,0 +1,11 @@
+<Defs>
+  <HediffDef> 
+      <defName>ForeignOrgan</defName>
+      <hediffClass>HediffWithComps</hediffClass>
+      <label>foreign organ</label>
+      <labelNoun>a foreign limb or organ</labelNoun>
+      <description>This limb or organ came from another person</description>
+      <descriptionHyperlinks><ThingDef>BionicArm</ThingDef></descriptionHyperlinks>
+    <isBad>false</isBad>
+  </HediffDef>
+</Defs>
