@@ -11,6 +11,8 @@
 		internal static string VersionDir => Path.Combine(ModLister.GetActiveModWithIdentifier($"winggar.{Identifier}").RootDir.FullName, "Version.txt");
 		public static string CurrentVersion { get; private set; }
 
+		public static string ForeignOrganHediffName = "ForeignOrgan";
+
 		public OrgansHaveOwners(ModContentPack content) : base(content)
 		{
 			var version = Assembly.GetExecutingAssembly().GetName().Version;
